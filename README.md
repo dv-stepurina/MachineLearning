@@ -55,4 +55,4 @@ Implemented end-to-end machine learning solutions covering fundamental and advan
 ```bash
 pip install -r requirements.txt
 ```
-3. Open Jupyter notebooks in directories part1 and part2 (the difference in difficulty)
+2. Run Jupyter notebooks in order in directories part1 and part2 (the difference in difficulty)
