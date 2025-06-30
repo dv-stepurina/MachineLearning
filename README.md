@@ -1,9 +1,9 @@
 # Machine Learning Projects Portfolio
 
 ## Overview
-Implemented end-to-end machine learning solutions covering fundamental and advanced techniques, from binary classification to ensemble methods and model optimization. Developed 10+ Jupyter notebooks demonstrating practical application of ML algorithms to real-world datasets.
+Implemented end-to-end machine learning solutions covering fundamental and advanced techniques, from binary classification to ensemble methods and model optimization. 
 
-## Core Projects
+## Projects
 
 ### 1. Binary Classification System
 - Built logistic regression, SVM, and decision tree classifiers to predict commit patterns (weekday vs weekend)
@@ -49,19 +49,9 @@ Implemented end-to-end machine learning solutions covering fundamental and advan
 - Object-oriented ML pipelines
 - Git version control
 
-## Key Achievements
-- Reduced overfitting by 30% through L1/L2 regularization
-- Automated hyperparameter tuning, saving 5+ hours per experiment
-- Designed reusable OOP pipeline architecture
-- Created comprehensive test suites covering 50+ edge cases
+## How to Use
 
-
-## How to Run
-1. Clone repository:
-```bash
-git clone https://github.com/yourusername/ml-projects.git
-```
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
